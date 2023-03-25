@@ -24,11 +24,17 @@ public class Address {
     @Column(name="state")
     private String state;
 
-    @Column(name="country")
-    private String country;
-
     @Column(name="zip_code")
     private String zipCode;
+
+    @Column(name="number")
+    private String number;
+
+    @Column(name="complement")
+    private String complement;
+
+    @Column(name="bairro")
+    private String bairro;
 
     @OneToOne
     @PrimaryKeyJoinColumn

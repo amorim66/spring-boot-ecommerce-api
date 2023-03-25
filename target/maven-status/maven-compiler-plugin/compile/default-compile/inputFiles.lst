@@ -1,0 +1,16 @@
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\service\CheckoutService.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dto\PurchaseResponse.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\ProductCategoryRepository.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\OrderItem.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\SpringBootEcommerceApplication.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\config\MyDataRestConfig.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\ProductRepository.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Customer.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\service\CheckoutServiceImpl.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dto\Purchase.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\ProductCategory.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Address.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Product.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Order.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\CustomerRepository.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\controller\CheckoutController.java

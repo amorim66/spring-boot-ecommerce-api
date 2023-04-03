@@ -20,6 +20,9 @@ public class ProductCategory {
     @Column(name= "category_name")
     private String categoryName;
 
+    @Column(name= "image_url")
+    private String imageUrl;
+
     @OneToMany(cascade = CascadeType.ALL, mappedBy = "category")
     private Set<Product> products;
 

@@ -5,6 +5,7 @@ C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\0
 C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\SpringBootEcommerceApplication.java
 C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\config\MyDataRestConfig.java
 C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\ProductRepository.java
+C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\OrderRepository.java
 C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Customer.java
 C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\service\CheckoutServiceImpl.java
 C:\Users\ghaam\OneDrive\Área de Trabalho\Curso - Eccommerce\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dto\Purchase.java

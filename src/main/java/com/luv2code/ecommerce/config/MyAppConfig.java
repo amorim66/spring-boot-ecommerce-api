@@ -10,7 +10,7 @@ public class MyAppConfig implements WebMvcConfigurer {
     @Value("${allowed.origins}")
     private String[] theAllowedOrigins;
 
-    @Value("${allowed.data.rest.base-path}")
+    @Value("${spring.data.rest.base-path}")
     private String basePath;
 
     @Override
